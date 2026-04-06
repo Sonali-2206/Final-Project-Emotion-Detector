@@ -1,4 +1,4 @@
-# IBM Watson NLP Emotion Detection Project
+Final Project
 
 This project uses IBM Watson NLP EmotionPredict API to detect emotions from text.
 
